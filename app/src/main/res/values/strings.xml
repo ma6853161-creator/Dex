@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Universal DeX Receiver</string>
+    <string name="tile_label">Screen In</string>
+    <string name="status_idle">Idle — waiting for sender</string>
+    <string name="status_listening">Listening on port %1$d</string>
+    <string name="status_connected">Connected: %1$s</string>
+</resources>
